@@ -103,8 +103,6 @@ class FacturaControllerTest {
 
 ---
 
-¡Listo para entregar!
-
 ## Evidencias de pruebas
 
 Las capturas de las pruebas realizadas en Postman y Swagger se encuentran en la carpeta `evidencias/`.
