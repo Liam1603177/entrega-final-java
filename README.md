@@ -1,7 +1,5 @@
 # FacturacionFinalDaddario
 
-# FacturacionFinalDaddario
-
 API REST profesional para facturación, desarrollada con Spring Boot 3.2.5, H2, JPA, DTOs, manejo de excepciones y documentación Swagger/OpenAPI.
 
 ## Cómo ejecutar
