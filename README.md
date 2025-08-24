@@ -58,7 +58,7 @@ Consola disponible en:
 - Usuario: `sa`
 - Contraseña: *(vacío)*
 
-## Test básico (opcional, suma puntos)
+## Test básico
 
 Archivo sugerido: `src/test/java/com/daddario/facturacion/FacturaControllerTest.java`
 
