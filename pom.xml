@@ -67,7 +67,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>FacturacionFinalDaddario</finalName>
+		<finalName>FacturacionEntregaProyectoFinalDaddario</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
